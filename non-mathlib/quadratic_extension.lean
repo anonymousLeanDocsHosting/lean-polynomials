@@ -1,4 +1,6 @@
-import field
+import field_definition
+import field_results
+import numbers
 
 inductive  item_plus_sqrt (f : Type) [myfld f] (rt : f) : Type
 | ips : f -> f -> item_plus_sqrt
