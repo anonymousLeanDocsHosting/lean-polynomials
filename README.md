@@ -9,4 +9,4 @@ The standalone version is hosted in the directory `non-mathlib`. It works with L
 
 ## Mathlib version
 
-The mathlib version uses definitions and results from the mathlib library. It works with Lean 3.33 and mathlib commit 18dc1a186.
+The mathlib version uses definitions and results from the mathlib library.  The files should be stored in the src/algebra directory of mathlib. It works with Lean 3.33 and mathlib commit 18dc1a186.
